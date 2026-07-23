@@ -3,7 +3,7 @@
 > **An AI-Powered Tamil Technical Linter & Writing Assistant**
 
 MozhiMathi AI is an intelligent writing assistant designed to help users write **technically accurate and standardized Tamil**. Instead of functioning as a chatbot or a generic translator, it acts as a **Tamil Technical Linter**, reviewing technical content in real time, identifying terminology inconsistencies, and recommending official Tamil technical terms backed by a curated knowledge base.
-
+ 
 ---
 
 ## 📖 Overview
